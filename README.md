@@ -14,8 +14,8 @@ There is also a master Solution File (all.sln) in the repo root that contains ev
 
 # Future Additions
 
+- Web API following [JSON:API Specification](https://jsonapi.org) standards
 - Single Worker Background Service
 - Multiple worker background service
 - Web API leveraging AWS (Datastore, EventBus)
-- Domain Driven Design
-- Clean Architecture
+- Domain Driven Design (Sample from the seminal book of the same name)
